@@ -1,5 +1,5 @@
-# 👋 **Hi, I'm Nouman**  
-## **Software Engineering Student | Aspiring Full-Stack Web Developer**  
+# Nouman  
+## **Software Engineering Student | Python and Full-Stack Web Developer**
 
 ---
 
@@ -31,11 +31,6 @@
 
 ---
 
-### 💻 **More About Me**  
-I’m a **Python** and **Web Development** enthusiast, currently honing my skills in both **Frontend** and **Backend** technologies. I love to learn, code, and build exciting projects that help me grow as a developer.
-
----
-
 ### 🛠️ **Projects & Contributions**
 
 #### 🚀 **Latest Project**:  
@@ -49,24 +44,20 @@ I’m contributing to open-source projects in **Python**, with a special focus o
 ### 🌐 **Technologies & Tools**
 <p align="center">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
-  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="50" height="50"/></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/></a>
 </p>
 
 ---
 
-### ⚡ **Fun Fact**  
-I'm always learning new technologies and love solving challenges. My ultimate goal is to become a **Full-Stack Web Developer** with solid knowledge of both **Frontend** and **Backend**.
-
----
-
 ### 🏆 **Skills**  
-- **Frontend**: HTML, CSS, JavaScript, React.js, TailwindCSS  
-- **Backend**: Node.js, Express.js, MongoDB  
-- **Languages**: Python, JavaScript, C++  
-- **Tools**: Git, GitHub, VSCode, Linux
+- **Languages**: Python, Java, C++  
+- **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
+- **Tools**: Git, GitHub, VSCode, Linux, Ubuntu  
+- **Databases**: MongoDB
 
 ---
