@@ -41,7 +41,7 @@ A sleek Python app to practice basic programming skills and improve problem-solv
 ### 🏆 **Skills**  
 - **Languages**: Python, Java, C++  
 - **Web Development**: HTML, CSS, JavaScript, React.js  
-- **Tools**: Git, GitHub, VSCode, Linux, Ubuntu  
+- **Tools**: Git, GitHub, VSCode 
 
 ---
 
