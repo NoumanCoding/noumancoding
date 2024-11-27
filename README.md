@@ -1,24 +1,20 @@
 # 👋 Hi, I'm Nouman  
 ## **Software Engineering Student | Python & Full-Stack Web Developer**  
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/189608824?s=400&u=9dfecfadb617dbe37009d7e53d5bacd379ddfa18&v=4" alt="Nouman" width="100" style="border-radius: 50%"/>
-</p>
-
 ---
 
 ### 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs&include_all_commits=true" alt="NoumanCoding" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&hide_title=true&count_private=true&hide=prs&include_all_commits=true" alt="NoumanCoding" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noumancoding&theme=radical&hide_border=true" alt="NoumanCoding" width="75%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noumancoding&theme=radical&hide_border=true" alt="NoumanCoding" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noumancoding&layout=compact&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="75%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noumancoding&layout=compact&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="50%" />
 </p>
 
 ---
@@ -26,7 +22,7 @@
 ### 🔥 **GitHub Achievements**  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&row=1&column=3&margin-w=15&margin-h=15&no-frame=true" alt="NoumanCoding" width="75%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&row=1&column=3&margin-w=15&margin-h=15&no-frame=true" alt="NoumanCoding" width="50%" />
 </p>
 
 ---
