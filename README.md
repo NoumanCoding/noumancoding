@@ -1,63 +1,62 @@
 # 👋 **Hi, I'm Nouman**  
-### *Software Engineering Student | Python & Full-Stack Developer*
+## *Software Engineering Student | Python & Full-Stack Web Developer*  
 
 ---
 
-### 🌟 **About Me**  
-🚀 I'm passionate about **coding**, **problem-solving**, and building **innovative software solutions**. With a focus on Python, full-stack development, and open-source contributions, I am constantly learning and growing.  
+### 🌟 **GitHub Stats & Achievements**
 
-- 🔥 **GitHub Streak**: 120 Days  
-- 📦 **Repositories**: 80+
-
----
-
-### 📊 **GitHub Stats & Contributions**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&count_private=true" alt="Nouman GitHub Stats" width="48%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 0, 100, 0.3);"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=noumancoding&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" style="border-radius: 15px; box-shadow: 0 4px 15px rgba(255, 0, 100, 0.3);"/>
-</div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);" />
+  <img src="https://streak-stats.demolab.com?user=noumancoding&theme=radical&hide_border=true&fire=DD2727&ring=FFB700&currStreakNum=120&currStreakLabel=FFB700" alt="NoumanCoding 120-Day Streak" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);" />
+</div>
 
 ---
 
-### 🏆 **GitHub Trophies & Achievements**  
+### 🔥 **GitHub Achievements & Trophies**
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&margin-w=20&margin-h=15&row=1&column=5" alt="GitHub Trophies" style="border-radius: 15px;"/>
-</div>  
+  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&row=1&column=4&margin-w=20&margin-h=20&no-frame=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);" />
+</div>
 
 ---
 
-### 💻 **Tech Stack**  
-#### 🚀 **Languages & Tools**:  
+### 🛠️ **Latest Project**
+
+**[SimpleCalculatorApp](https://github.com/NoumanCoding/SimpleCalculatorApp)**  
+A sleek, minimalist Python app that helps me practice and refine my core programming skills.  
+
+🧠 **Technologies Used**: Python, Git, VSCode  
+
+---
+
+### 🌐 **Technologies & Tools**
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="margin: 10px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="60" height="60" style="margin: 10px;"/>
-</div>  
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="80" height="80" style="transition: transform 0.2s; border-radius: 12px; box-shadow: 0 4px 25px rgba(0, 0, 0, 0.15);" /></a>
+</div>
 
 ---
 
-### 🔥 **Current Projects**  
-1. [**Simple Calculator App**](https://github.com/NoumanCoding/SimpleCalculatorApp)  
-   🛠️ A Python-based calculator for practicing core programming concepts.  
+### 🏆 **Skills**
 
-2. [**Portfolio Website**](https://github.com/NoumanCoding/MyPortfolio)  
-   🌐 A dynamic personal portfolio to showcase skills, projects, and achievements.
-
----
-
-### 🌱 **Current Goals**  
-- **Python Mastery**: Advanced algorithms, Flask/Django for backend.  
-- **Web Development**: React.js and API integration.  
-- **Open Source**: Contributing to meaningful projects.
+- **Languages**: Python, Java, C++  
+- **Web Development**: HTML, CSS, JavaScript, React.js  
+- **Tools**: Git, GitHub, VSCode, Linux, Ubuntu  
 
 ---
 
-### 🧑‍💻 **Let's Connect**  
-💬 Feel free to reach out via [GitHub](https://github.com/NoumanCoding) or email at [noumanali.devstudio@gmail.com](mailto:noumanali.devstudio@gmail.com).  
+### 🌱 **Current Focus**
+
+Expanding expertise in **full-stack web development**, diving deep into **Backend & APIs** using **Flask/Django**, and contributing to **open-source projects**.
+
+---
+
+### 🌐 **Connect with Me**
+
+You can find me on **[GitHub](https://github.com/NoumanCoding)** or send me an email at [noumanali.devstudio@gmail.com](mailto:noumanali.devstudio@gmail.com).
