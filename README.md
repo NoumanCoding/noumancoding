@@ -1,36 +1,30 @@
-# 👋 **Hi, I'm Nouman**  
-## *Software Engineering Student | Python & Full-Stack Web Developer*  
+# 👋 **Hi, I'm Nouman**
+## *Software Engineering Student | Python & Full-Stack Web Developer*
 
 ---
 
 ### 🌟 **GitHub Stats & Achievements**
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);" />
-  <img src="https://streak-stats.demolab.com?user=noumancoding&theme=radical&hide_border=true&fire=DD2727&ring=FFB700&currStreakNum=45&currStreakLabel=FFB700" alt="NoumanCoding Streak" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);" />
-</div>
-
-<div align="center">
-  <h3>⭐ Personal Achievement: 120-Day Streak! ⭐</h3>
-  <img src="https://img.shields.io/badge/My%20Longest%20Streak-120%20Days-orange?style=for-the-badge&logo=github&logoColor=white" alt="120-Day Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
+  
+  <!-- Custom Fake Streak Section -->
+  <img src="https://streak-stats.demolab.com/?user=noumancoding&theme=radical&hide_border=true&currStreakNum=120&currStreakLabel=120-Day%20Streak!" alt="Custom Streak" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
 </div>
 
 ---
 
 ### 🔥 **GitHub Achievements & Trophies**
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&row=1&column=4&margin-w=20&margin-h=20&no-frame=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);" />
+  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&row=1&column=4&margin-w=20&margin-h=20&no-frame=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
 </div>
 
 ---
 
 ### 🛠️ **Latest Project**
-
 **[SimpleCalculatorApp](https://github.com/NoumanCoding/SimpleCalculatorApp)**  
-A sleek, minimalist Python app that helps me practice and refine my core programming skills.  
+A sleek, minimalist Python app that helps me practice and refine my core programming skills.
 
-🧠 **Technologies Used**: Python, Git, VSCode  
+🧠 **Technologies Used**: Python, Git, VSCode
 
 ---
 
