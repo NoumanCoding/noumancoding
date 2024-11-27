@@ -1,29 +1,27 @@
-# 👋 **Hi, I'm Nouman**
+# 👋 Hi, I'm Nouman
+
 ## *Software Engineering Student | Python & Full-Stack Web Developer*
 
 ---
 
 ### 🌟 **GitHub Stats & Achievements**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noumancoding&show_icons=true&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
-
-  <!-- Custom Fake Streak -->
-  <img src="https://streak-stats.demolab.com?user=noumancoding&theme=radical&hide_border=true&currStreakNum=120&currStreakLabel=🔥%20120-Day%20Streak!&sideLabels=0F0&background=FF000000" alt="Fake 120-Day Streak" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://streak-stats.demolab.com?user=NoumanCoding&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="NoumanCoding Streak" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoumanCoding&show_icons=true&theme=highcontrast&hide_title=true&count_private=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
 </div>
 
 ---
 
 ### 🔥 **GitHub Achievements & Trophies**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noumancoding&theme=radical&row=1&column=4&margin-w=20&margin-h=20&no-frame=true" alt="NoumanCoding" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=NoumanCoding&theme=highcontrast&row=1&column=4&margin-w=20&margin-h=20&no-frame=true" alt="NoumanCoding Achievements" width="48%" style="border-radius: 12px; box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);"/>
 </div>
 
 ---
 
 ### 🛠️ **Latest Project**
 **[SimpleCalculatorApp](https://github.com/NoumanCoding/SimpleCalculatorApp)**  
-A sleek, minimalist Python app that helps me practice and refine my core programming skills.
-
+A sleek, minimalist Python app that helps me practice and refine my core programming skills.  
 🧠 **Technologies Used**: Python, Git, VSCode
 
 ---
@@ -42,9 +40,9 @@ A sleek, minimalist Python app that helps me practice and refine my core program
 ---
 
 ### 🏆 **Skills**
-- **Languages**: Python, Java, C++  
-- **Web Development**: HTML, CSS, JavaScript, React.js  
-- **Tools**: Git, GitHub, VSCode, Linux  
+- **Languages**: Python, Java, C++
+- **Web Development**: HTML, CSS, JavaScript, React.js
+- **Tools**: Git, GitHub, VSCode, Linux
 
 ---
 
@@ -54,4 +52,5 @@ Expanding expertise in **full-stack web development**, diving deep into **Backen
 ---
 
 ### 🌐 **Connect with Me**
-You can find me on **[GitHub](https://github.com/NoumanCoding)** or send me an email at [noumanali.devstudio@gmail.com](mailto:noumanali.devstudio@gmail.com).
+- [GitHub](https://github.com/NoumanCoding)
+- [Email](mailto:noumanali.devstudio@gmail.com)
