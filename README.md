@@ -1,8 +1,8 @@
-# Nouman  
+# 👋 Hi, I'm Nouman  
 ## **Software Engineering Student | Python & Full-Stack Web Developer**  
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/124897367?v=4" alt="Nouman" width="150" style="border-radius: 50%"/>
+  <img src="https://avatars.githubusercontent.com/u/189608824?s=400&u=9dfecfadb617dbe37009d7e53d5bacd379ddfa18&v=4" alt="Nouman" width="150" style="border-radius: 50%"/>
 </p>
 
 ---
@@ -19,15 +19,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noumancoding&layout=compact&theme=radical&hide_title=true&count_private=true" alt="NoumanCoding" width="80%" />
-</p>
-
----
-
-### 📫 **Contact & Social**  
-<p align="center">
-  <a href="mailto:noumanali.devstudio@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-noumanali.devstudio%40gmail.com-blue?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/NoumanCoding" target="_blank"><img src="https://img.shields.io/badge/GitHub-NoumanCoding-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/noumanali/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-NoumanAli-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -69,7 +60,6 @@ I am actively contributing to open-source projects in **Python**, with a focus o
 - **Languages**: Python, Java, C++  
 - **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
 - **Tools**: Git, GitHub, VSCode, Linux, Ubuntu  
-- **Databases**: MongoDB  
 
 ---
 
@@ -80,8 +70,6 @@ I am constantly learning new technologies and improving my skills. Currently foc
 
 ### 🔗 **Links**  
 - [My GitHub Profile](https://github.com/NoumanCoding)
-- [My LinkedIn](https://www.linkedin.com/in/noumanali/)
 - [Personal Blog](https://nouman.dev)
 
 ---
-
