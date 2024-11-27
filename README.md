@@ -58,6 +58,6 @@ I’m contributing to open-source projects in **Python**, with a special focus o
 - **Languages**: Python, Java, C++  
 - **Web Development**: HTML, CSS, JavaScript, React.js, Node.js, Express.js  
 - **Tools**: Git, GitHub, VSCode, Linux, Ubuntu  
-- **Databases**: MongoDB
 
 ---
+
