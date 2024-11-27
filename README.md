@@ -41,7 +41,7 @@ A sleek, minimalist Python app that helps me practice and refine my core program
 ### 🏆 **Skills**  
 - **Languages**: Python, Java, C++  
 - **Web Development**: HTML, CSS, JavaScript, React.js  
-- **Tools**: Git, GitHub, VSCode, Linux, Ubuntu  
+- **Tools**: Git, GitHub, VSCode,  
 
 ---
 
