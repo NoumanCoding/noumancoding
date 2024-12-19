@@ -3,13 +3,6 @@
 
 ---
 
-### 🚀 About Me  
-I'm passionate about coding and building impactful web solutions.  
-Currently, mastering **Python**, **Java**, **C++**, and Full-Stack Development.  
-I am dedicated to writing clean, scalable, and efficient code.
-
----
-
 ### 🛠️ Skills  
 
 #### **Languages**  
