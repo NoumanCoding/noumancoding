@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Nouman  
-**Software Engineering Student | Python & Full-Stack Web Developer**  
-
 ---
 
 ### 🛠️ Skills  
